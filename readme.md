@@ -1,4 +1,4 @@
-# Xpensify — Finance Data Processing and Access Control Backend
+# Fincore — Finance Data Processing and Access Control Backend
 
 A role-based finance dashboard backend built for the Zorvyn FinTech backend engineering assessment. Manages users, transactions, and analytics with JWT-based authentication and strict role-based access control.
 
